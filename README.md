@@ -50,7 +50,9 @@ From there, you will end up here:
 
 
 From the file menu, upload the image that you want to use (Make sure to use an image that has a lot of contrast) 
-Now, since we are putting our designs on the PCB, select <img width="164" height="84" alt="image" src="https://github.com/user-attachments/assets/0f95c069-ca40-4db2-abd8-d2a88da5fbf0" />
+Now, since we are putting our designs on the PCB, select 
+
+<img width="164" height="84" alt="image" src="https://github.com/user-attachments/assets/0f95c069-ca40-4db2-abd8-d2a88da5fbf0" />
 and export to clipboard. You can then go back to your PCB and press CTRL+V to paste your image. 
 
 
